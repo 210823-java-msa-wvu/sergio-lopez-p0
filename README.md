@@ -12,4 +12,4 @@ Customer can:
 - Send Crypto
 
 Employee Can:
-- Accept or deny buy/send transactions
+- Accept or deny buy/send/store transactions
