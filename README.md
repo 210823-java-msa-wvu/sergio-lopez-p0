@@ -5,11 +5,11 @@ Both users can:
 
 -Log in to an existing acount
 
-Customer can:
+User can:
 - Create new account
-- Buy Crypto
-- Store Crypto
-- Send Crypto
+- Receive Cryptocurrency
+- Send Cryptocurrency
+- Check Balance in the Crypto Wallet
 
 Employee Can:
-- Accept or deny buy/send/store transactions
+- Accept or deny send transactions
