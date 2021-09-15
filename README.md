@@ -7,9 +7,9 @@ Both users can:
 
 User can:
 - Create new account
-- Receive Cryptocurrency
-- Send Cryptocurrency
+- Deposit Cryptocurrency
+- Withdraw Cryptocurrency
 - Check Balance in the Crypto Wallet
 
 Employee Can:
-- Accept or deny send transactions
+- View all Users information
